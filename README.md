@@ -2,20 +2,20 @@
 
 I am a  **ML engineer|MlOps|Data Scientist** with a keen interest in leveraging cutting-edge technologies to solve complex problems and drive innovation in the field of machine learning and artificial intelligence.
 
-- 🔭 I’m currently working on deploying machine learning models for real-time anomaly detection in manufacturing processes.
-- 🌱 I’m currently learning advanced techniques in deep learning and reinforcement learning.
+- 🔭 I'm actively implementing a cutting-edge MLops CI/CD pipeline integrated with a Continuous Training Approach to streamline our machine learning model development and deployment process.
+- 🌱 I’m currently learning advanced deep learning  and automating MlOps in every domain over Cloud Platform (GCP and AWS) .
 - 👯 I’m looking to collaborate on projects related to computer vision, natural language processing, and predictive analytics.
 - 💬 Ask me about machine learning model deployment, data preprocessing techniques, and algorithm optimization.
-- 📫 How to reach me: You can connect with me on [LinkedIn](#) or [Twitter](#).
+- 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/impathak/).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm an avid hiker and love exploring new trails in my free time.
+- ⚡ Fun fact: As a passionate cricketer, I'm thrilled to be batting for the implementation of a robust MLops CI/CD pipeline coupled with a Continuous Training Approach, aiming to score big wins in optimizing our machine learning model development and deployment process.
 
 ## About Me
 
-I hold a Bachelors's degree in Mechanical engineering with a Google cloud certification in machine learning. My passion for machine learning and MLOps stems from my curiosity to unearth hidden patterns within data. I leverage these insights to build and manage machine learning models that solve complex problems and drive real-world business impact. I thrive in dynamic environments where I can continuously learn and apply my analytical skills.
+I hold a Bachelors's degree in Mechanical engineering with a [Google cloud certification](https://www.cloudskillsboost.google/public_profiles/3befdf67-850d-4950-b8df-db6c57ee4bda) in machine learning. My passion for machine learning and MLOps stems from my curiosity to unearth hidden patterns within data. I leverage these insights to build and manage machine learning models that solve complex problems and drive real-world business impact. I thrive in dynamic environments where I can continuously learn and apply my analytical skills.
 
 
-# Technical Skills:
+
 
 # Technical Skills:
 
