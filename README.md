@@ -19,22 +19,20 @@ I hold a Bachelors's degree in Mechanical engineering with a Google cloud certif
 
 # Technical Skills:
 
+# Technical Skills:
+
 ## Data Visualization 📊:
 
-- Visualization Techniques using:
-  - [Matplotlib](https://matplotlib.org/)
-  - [Seaborn](https://seaborn.pydata.org/)
-  - [Plotly](https://plotly.com/)
-
+- Visualization Techniques
 
 ## Deep Learning Frameworks 🧠:
 
-- [TensorFlow](https://www.tensorflow.org/)
-- [TensorFlow Lite](https://www.tensorflow.org/lite/api_docs/java/org/tensorflow/lite/package-summary)
+- [TensorFlow](https://www.tensorflow.org/) ![TensorFlow Icon](https://img.icons8.com/color/48/000000/tensorflow.png)
+- [TensorFlow Lite](https://www.tensorflow.org/lite/api_docs/java/org/tensorflow/lite/package-summary) ![TensorFlow Lite Icon](https://img.icons8.com/color/48/000000/tensorflow.png)
 
 ## Machine Learning Libraries 🤖:
 
-- [Scikit-Learn](https://scikit-learn.org/)
+- [Scikit-Learn](https://scikit-learn.org/) ![Scikit-Learn Icon](https://img.icons8.com/color/48/000000/python.png)
 
 ## Natural Language Processing (NLP) 🗣️:
 
@@ -42,7 +40,7 @@ I hold a Bachelors's degree in Mechanical engineering with a Google cloud certif
 
 ## Computer Vision 👁️:
 
-- [Computer Vision Fundamentals](https://www.coursera.org/learn/image-understanding-tensorflow-gcp)
+- [Computer Vision Fundamentals](https://www.coursera.org/learn/image-understanding-tensorflow-gcp) ![Computer Vision Icon](https://img.icons8.com/color/48/000000/computer-vision.png)
 - Experience with computer vision applications
 
 ## Time Series Analysis ⏲️:
@@ -51,39 +49,40 @@ I hold a Bachelors's degree in Mechanical engineering with a Google cloud certif
 
 ## Data Science Fundamentals 📊:
 
-- [Data Structures](https://pll.harvard.edu/subject/data-structures)
-- [NumPy](https://numpy.org/)
-- [SQL](https://www.youtube.com/watch?v=h0nxCDiD-zg)
-- [Extract, Transform, Load (ETL)](https://medium.com/geekculture/machine-learning-pipelines-with-google-cloud-platform-a3697d0ab8fb)
+- [Data Structures](https://pll.harvard.edu/subject/data-structures) ![Data Structures Icon](https://img.icons8.com/color/48/000000/database-structure.png)
+- [NumPy](https://numpy.org/) ![NumPy Icon](https://img.icons8.com/color/48/000000/python.png)
+- [SQL](https://www.youtube.com/watch?v=h0nxCDiD-zg) ![SQL Icon](https://img.icons8.com/color/48/000000/sql.png)
+- [Extract, Transform, Load (ETL)](https://medium.com/geekculture/machine-learning-pipelines-with-google-cloud-platform-a3697d0ab8fb) ![ETL Icon](https://img.icons8.com/color/48/000000/etl.png)
 
 ## MLOps Tools & Technologies ⚙️:
 
-- [ML Pipelines on Google Cloud](https://medium.com/geekculture/machine-learning-pipelines-with-google-cloud-platform-a3697d0ab8fb)
-- [Apache Kafka](https://kafka.apache.org/)
-- [Apache Spark](https://spark.apache.org/)
-- [Feature Engineering](https://cloud.google.com/vertex-ai/docs/tabular-data/tabular-workflows/feature-engineering)
-- [Apache Airflow](https://airflow.apache.org/)
-- [TFX](https://cloud.google.com/vertex-ai/docs/start/tensorflow)
-- [Kubeflow](https://www.kubeflow.org/) - [Kubeflow (Medium)](https://medium.com/geekculture/machine-learning-pipelines-with-google-cloud-platform-a3697d0ab8fb)
-- [Kubernetes](https://kubernetes.io/) - [Kubernetes (Medium)](https://medium.com/geekculture/machine-learning-pipelines-with-google-cloud-platform-a3697d0ab8fb)
-- [Docker](https://www.docker.com/)
-- [Vertex AI](https://cloud.google.com/vertex-ai)
-- [MLOps concepts](https://cloud.google.com/vertex-ai/docs/start/introduction-mlops)
-- [Google Cloud Platform (GCP)](https://cloud.google.com/vertex-ai)
-- [MLflow](https://docs.arize.com/arize/resources/integrations/mlflow)
-- [Google BigQuery](https://cloud.google.com/bigquery)
+- [ML Pipelines on Google Cloud](https://medium.com/geekculture/machine-learning-pipelines-with-google-cloud-platform-a3697d0ab8fb) ![ML Pipelines Icon](https://img.icons8.com/color/48/000000/pipeline.png)
+- [Apache Kafka](https://kafka.apache.org/) ![Kafka Icon](https://img.icons8.com/color/48/000000/kafka.png)
+- [Apache Spark](https://spark.apache.org/) ![Spark Icon](https://img.icons8.com/color/48/000000/sparkler-2.png)
+- [Feature Engineering](https://cloud.google.com/vertex-ai/docs/tabular-data/tabular-workflows/feature-engineering) ![Feature Engineering Icon](https://img.icons8.com/color/48/000000/engineering.png)
+- [Apache Airflow](https://airflow.apache.org/) ![Airflow Icon](https://img.icons8.com/color/48/000000/airflow.png)
+- [TFX](https://cloud.google.com/vertex-ai/docs/start/tensorflow) ![TFX Icon](https://img.icons8.com/color/48/000000/tensorflow.png)
+- [Kubeflow](https://www.kubeflow.org/) ![Kubeflow Icon](https://img.icons8.com/color/48/000000/kubernetes.png)
+- [Kubernetes](https://kubernetes.io/) ![Kubernetes Icon](https://img.icons8.com/color/48/000000/kubernetes.png)
+- [Docker](https://www.docker.com/) ![Docker Icon](https://img.icons8.com/color/48/000000/docker.png)
+- [Vertex AI](https://cloud.google.com/vertex-ai) ![Vertex AI Icon](https://img.icons8.com/color/48/000000/google-cloud-platform.png)
+- [MLOps concepts](https://cloud.google.com/vertex-ai/docs/start/introduction-mlops) ![MLOps Icon](https://img.icons8.com/color/48/000000/continuous-deployment.png)
+- [Google Cloud Platform (GCP)](https://cloud.google.com/vertex-ai) ![GCP Icon](https://img.icons8.com/color/48/000000/google-cloud-platform.png)
+- [MLflow](https://docs.arize.com/arize/resources/integrations/mlflow) ![MLflow Icon](https://img.icons8.com/color/48/000000/circuit.png)
+- [Google BigQuery](https://cloud.google.com/bigquery) ![BigQuery Icon](https://img.icons8.com/color/48/000000/google-cloud-platform.png)
 
 ## Web Frameworks 🌐:
 
-- [Streamlit](https://docs.streamlit.io/)
-- [FastAPI](https://fastapi.tiangolo.com/)
-- [Flask](https://flask.palletsprojects.com/)
-- [HTML](https://www.w3schools.com/html/)
-- [CSS](https://www.w3schools.com/css/)
+- [Streamlit](https://docs.streamlit.io/) ![Streamlit Icon](https://img.icons8.com/color/48/000000/streamlit.png)
+- [FastAPI](https://fastapi.tiangolo.com/) ![FastAPI Icon](https://img.icons8.com/color/48/000000/api-settings.png)
+- [Flask](https://flask.palletsprojects.com/) ![Flask Icon](https://img.icons8.com/color/48/000000/flask.png)
+- [HTML](https://www.w3schools.com/html/) ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png)
+- [CSS](https://www.w3schools.com/css/) ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png)
 
 ## Programming Languages 💻:
 
-- **Python** (Primary Language)
+- **Python** (Primary Language) ![Python Icon](https://img.icons8.com/color/48/000000/python.png)
+
 
 ## Additional Skills 🌟:
 
