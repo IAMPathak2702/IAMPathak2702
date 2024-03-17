@@ -83,12 +83,18 @@ I hold a Bachelors's degree in Mechanical engineering with a Google cloud certif
 
 - **Python** (Primary Language) ![Python Icon](https://img.icons8.com/color/48/000000/python.png)
 
+## **Cloud Platforms:**
+
+-  [AWS ☁️](#)
+-  [Google Cloud Platform ☁️](#)
 
 ## Additional Skills 🌟:
 
 - [Statistical Modeling](https://www.tensorflow.org/certificate)
 - [Long Short-term Memory (LSTM) Networks](https://en.wikipedia.org/wiki/Long_short-term_memory)
 - Large Language Models (LLM)
+- RESTful API
+- Tensorflow Serving
 
 # Education 🎓:
 
