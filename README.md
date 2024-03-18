@@ -1,3 +1,33 @@
+<table>
+  <tr>
+    <td align="right">
+        <a href="https://twitter.com/impathak1" target="blank">
+            <img src="https://img.shields.io/twitter/follow/impathak1?logo=twitter&style=for-the-badge" alt="impathak1" />
+        </a>
+    </td>
+    <td align="right">
+        <a href="https://linkedin.com/in/impathak" target="blank">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="impathak" />
+        </a>
+    </td>
+    <td align="right">
+        <a href="https://kaggle.com/impathak" target="blank">
+            <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="impathak" />
+        </a>
+    </td>
+    <td align="right">
+        <a href="https://instagram.com/impathak" target="blank">
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="impathak" />
+        </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
 <h1 align="center> # Hi there, I'm Ved Prakash Pathak! 👋 </h1> 
 
     
