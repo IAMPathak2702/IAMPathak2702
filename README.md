@@ -74,16 +74,17 @@ I hold a Bachelors's degree in Mechanical engineering with a [Google cloud certi
 
 | Category                | Libraries                                                                                               |
 |-------------------------|---------------------------------------------------------------------------------------------------------|
-| Tensorflow              | [![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)](https://www.tensorflow.org/) |
-|  Tensorflow lite        | [![TensorFlow Lite](https://img.icons8.com/color/48/000000/tensorflow.png)](https://www.tensorflow.org/lite/api_docs/java/org/tensorflow/lite/package-summary) |
+| Tensorflow              | <img src="https://img.icons8.com/color/48/000000/tensorflow.png)](https://www.tensorflow.org" alt="TensorFlow Logo"  width="50" height="50"> |
+|  Tensorflow lite        | <img src="https://github.com/IAMPathak2702/IAMPathak2702/raw/main/pictures/logos/tensorflow-lite-logo-social.png" alt="TensorFlow Lite Logo" width="50" height="50">
+ |
 
 
 ## Machine Learning Libraries 🤖:
 
 | Library      | Website                                            | Logo                                                                                                               |
 |--------------|----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
-| Scikit-Learn | [Scikit-Learn](https://scikit-learn.org/)          | <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/scikitlearn.png" alt="Scikit-Learn Logo" width="30" height="30">|
-| XGBoost      | [XGBoost](https://xgboost.readthedocs.io/en/latest/) |<img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/XGBoost_logo.png" alt="XGBoost Logo" width="30" height="30"> |
+| Scikit-Learn | [Scikit-Learn](https://scikit-learn.org/)          | <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/scikitlearn.png" alt="Scikit-Learn Logo" width="50" height="50">|
+| XGBoost      | [XGBoost](https://xgboost.readthedocs.io/en/latest/) |<img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/XGBoost_logo.png" alt="XGBoost Logo" width="50" height="50"> |
 
 
 
@@ -143,7 +144,10 @@ I hold a Bachelors's degree in Mechanical engineering with a [Google cloud certi
 
 | Cloud Platform         | Platforms                                                |
 |------------------------|----------------------------------------------------------|
-| **Cloud Platforms:**   | [<img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/aws.png" alt="AWS" width="48"/>](#), [<img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/gcp.png" alt="GCP" width="48"/>](#), [<img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/Microsoft_Azure-Logo.png" alt="Azure" width="48"/>](#) |
+| **Cloud Platforms:**   | [<img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/aws.png" alt="AWS" width="48"/>](#) Amazon Web Services (AWS) is a comprehensive cloud computing platform provided by Amazon. It offers a wide range of services including computing power, storage, and database solutions, among others. | 
+|                        | [<img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/gcp.png" alt="GCP" width="48"/>](#) Google Cloud Platform (GCP) is a suite of cloud computing services offered by Google. It provides infrastructure as a service (IaaS), platform as a service (PaaS), and serverless computing environments, along with storage and machine learning capabilities. |
+|                        | [<img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/Microsoft_Azure-Logo.png" alt="Azure" width="48"/>](#) Microsoft Azure is a cloud computing service offered by Microsoft. It provides a wide range of services including virtual computing, storage, analytics, and networking. Azure is known for its scalability, reliability, and integration with Microsoft's ecosystem of products and services. |
+
 
 
 
