@@ -1,34 +1,30 @@
 <table>
   <tr>
     <td align="right">
-        <a href="https://twitter.com/impathak1" target="blank">
-            <img src="https://img.shields.io/twitter/follow/impathak1?logo=twitter&style=for-the-badge" alt="impathak1" />
-        </a>
+      <a href="https://twitter.com/impathak1" target="blank">
+        <img src="https://img.shields.io/twitter/follow/impathak1?logo=twitter&style=for-the-badge" alt="impathak1" />
+      </a>
     </td>
     <td align="right">
-        <a href="https://linkedin.com/in/impathak" target="blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="impathak" />
-        </a>
+      <a href="https://linkedin.com/in/impathak" target="blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="impathak" />
+      </a>
     </td>
     <td align="right">
-        <a href="https://kaggle.com/impathak" target="blank">
-            <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="impathak" />
-        </a>
+      <a href="https://kaggle.com/impathak" target="blank">
+        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="impathak" />
+      </a>
     </td>
     <td align="right">
-        <a href="https://instagram.com/impathak" target="blank">
-            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="impathak" />
-        </a>
+      <a href="https://instagram.com/impathak" target="blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="impathak" />
+      </a>
     </td>
   </tr>
 </table>
 
+<h1 align="center">Hi there, I'm Ved Prakash Pathak! 👋</h1>
 
-
-
-
-
-<h1 align="center> # Hi there, I'm Ved Prakash Pathak! 👋 </h1> 
 
 
 <h2 align="center">A passionate Machine Learning engineer | MLOps engineer | Data scientist with a keen interest in leveraging cutting-edge technologies to solve complex problems and drive innovation in the field of machine learning and artificial intelligence. </h2>
@@ -87,7 +83,7 @@ I hold a Bachelors's degree in Mechanical engineering with a [Google cloud certi
 
 ## Computer Vision 👁️:
 
-- [Computer Vision Fundamentals](https://www.coursera.org/learn/image-understanding-tensorflow-gcp) ![Computer Vision Icon](https://img.icons8.com/color/48/000000/computer-vision.png)
+- [Computer Vision Fundamentals](https://www.coursera.org/learn/image-understanding-tensorflow-gcp)
 - Experience with computer vision applications
 
 ## Time Series Analysis ⏲️:
@@ -96,10 +92,10 @@ I hold a Bachelors's degree in Mechanical engineering with a [Google cloud certi
 
 ## Data Science Fundamentals 📊:
 
-- [Data Structures](https://pll.harvard.edu/subject/data-structures) ![Data Structures Icon](https://img.icons8.com/color/48/000000/database-structure.png)
+- [Data Structures](https://pll.harvard.edu/subject/data-structures) 
 - [NumPy](https://numpy.org/) ![NumPy Icon](https://img.icons8.com/color/48/000000/python.png)
 - [SQL](https://www.youtube.com/watch?v=h0nxCDiD-zg) ![SQL Icon](https://img.icons8.com/color/48/000000/sql.png)
-- [Extract, Transform, Load (ETL)(#)
+- [Extract, Transform, Load (ETL)](#)
 
 ## MLOps Tools & Technologies ⚙️:
 
@@ -196,4 +192,51 @@ Feel free to connect with me on:
 - [Google Cloud Profile](https://www.cloudskillsboost.google/public_profiles/3befdf67-850d-4950-b8df-db6c57ee4bda)
 
 Looking forward to connecting with you!
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Certificates</title>
+<style>
+  .certificate {
+    width: calc(25% - 20px);
+    height: auto;
+    margin: 10px;
+    float: left;
+    box-sizing: border-box;
+  }
+
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+</style>
+</head>
+<body>
+
+<div class="row">
+  <img class="certificate" src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/comp%20vision.png" alt="Computer Vision">
+  <img class="certificate" src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/datascience.jpg" alt="Data Science">
+  <img class="certificate" src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/generative%20ai.png" alt="Generative AI">
+  <img class="certificate" src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/introduction%20to%20image%20generation.png" alt="Introduction to Image Generation">
+</div>
+
+<div class="row">
+  <img class="certificate" src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/kuebflow.jpg" alt="Kuebflow">
+  <img class="certificate" src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/ml%20fundamentals.png" alt="ML Fundamentals">
+  <img class="certificate" src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/ml%20pipelines.png" alt="ML Pipelines">
+  <img class="certificate" src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/mlops.png" alt="MLOps">
+</div>
+
+<div class="row">
+  <img class="certificate" src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/production%20machine%20leaning.png" alt="Production Machine Learning">
+  <img class="certificate" src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/recommendation%20system.png" alt="Recommendation System">
+  <img class="certificate" src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/tensorflow.png" alt="TensorFlow">
+</div>
+
+</body>
+</html>
 
