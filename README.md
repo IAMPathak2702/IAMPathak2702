@@ -1,5 +1,5 @@
-<h1 # Hi there, I'm Ved Prakash Pathak! 👋 /h1>
-<h2 align="center">A passionate Machine Learning engineer | MLOps engineer | Data scientist /h2>
+<h1> # Hi there, I'm Ved Prakash Pathak! 👋 </h1>
+<h2 align="center">A passionate Machine Learning engineer | MLOps engineer | Data scientist </h2>
 
 I am a  **ML engineer|MlOps|Data Scientist** with a keen interest in leveraging cutting-edge technologies to solve complex problems and drive innovation in the field of machine learning and artificial intelligence.
 
@@ -29,17 +29,127 @@ I hold a Bachelors's degree in Mechanical engineering with a [Google cloud certi
 </p>
 
 Sure, here's the list of languages and tools sorted into a table with six columns:
+Certainly! Below is the complete HTML code incorporating all the categories and tools with their respective image sources:
 
-| Tool          | Tool           | Tool         | Tool         | Tool         | Tool         |
-|---------------|----------------|--------------|--------------|--------------|--------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> Amazon Web Services | <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> Microsoft Azure | <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> GNU Bash | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> CSS3 | <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> Django | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> Docker |
-| <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> Flask | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> Google Cloud | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> Git | <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> Grafana | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> HTML5 | <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> Jenkins |
-| <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> Kubernetes | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> Linux | <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> OpenCV | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> Oracle | <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> Pandas | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> PostgreSQL |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> Python | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> PyTorch | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> Redis | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> Scikit-Learn | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> Seaborn | <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> TensorFlow |
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tools and Technologies</title>
+</head>
+<body>
 
-This table organizes the tools into six columns for better readability.
+<h1>Tools and Technologies</h1>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iampathak2702&show_icons=true&locale=en&layout=compact" alt="iampathak2702" /></p>
+<table border="1">
+    <tr>
+        <th>Category</th>
+        <th>Tool(s)</th>
+    </tr>
+    <tr>
+        <td>Cloud Computing Platforms</td>
+        <td>
+            <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+            </a>
+            Amazon Web Services (AWS) <br>
+            <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+            </a>
+            Microsoft Azure <br>
+            <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+            </a>
+            Google Cloud Platform (GCP)
+        </td>
+    </tr>
+    <tr>
+        <td>Development Tools</td>
+        <td>
+            <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+            </a>
+            GNU Bash <br>
+            <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+            </a>
+            Git <br>
+            <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+            </a>
+            Jenkins
+        </td>
+    </tr>
+    <tr>
+        <td>Web Development</td>
+        <td>
+            <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+            </a>
+            CSS3 <br>
+            <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+                <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+            </a>
+            Django <br>
+            <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+            </a>
+            Flask <br>
+            <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+            </a>
+            HTML5
+        </td>
+    </tr>
+    <tr>
+        <td>Containerization</td>
+        <td>
+            <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+            </a>
+            Docker <br>
+            <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+            </a>
+            Kubernetes
+        </td>
+    </tr>
+    <tr>
+        <td>Databases</td>
+        <td>
+            <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+            </a>
+            PostgreSQL <br>
+            <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+            </a>
+            Oracle <br>
+            <a href="https://redis.io" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+            </a>
+            Redis
+        </td>
+    </tr>
+    <tr>
+        <td>Machine Learning and Data Science</td>
+        <td>
+            <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+            </a>
+            Pandas <br>
+            <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+            </a>
+            Scikit-Learn <br>
+            <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+            </a>
+            TensorFlow <br>
+            <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+            </a>
 
 
 # Technical Skills:
