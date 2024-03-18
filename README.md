@@ -1,27 +1,30 @@
-<table>
-  <tr>
-    <td align="right">
-      <a href="https://twitter.com/impathak1" target="blank">
-        <img src="https://img.shields.io/twitter/follow/impathak1?logo=twitter&style=for-the-badge" alt="impathak1" />
-      </a>
-    </td>
-    <td align="right">
-      <a href="https://linkedin.com/in/impathak" target="blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="impathak" />
-      </a>
-    </td>
-    <td align="right">
-      <a href="https://kaggle.com/impathak" target="blank">
-        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="impathak" />
-      </a>
-    </td>
-    <td align="right">
-      <a href="https://instagram.com/impathak" target="blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="impathak" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table style="width: 100%;">
+    <tr>
+      <td style="padding: 5px;" align="center">
+        <a href="https://twitter.com/impathak1" target="blank">
+          <img src="https://img.shields.io/twitter/follow/impathak1?logo=twitter&style=flat-square" alt="Twitter" height="20" />
+        </a>
+      </td>
+      <td style="padding: 5px;" align="center">
+        <a href="https://linkedin.com/in/impathak" target="blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="20" />
+        </a>
+      </td>
+      <td style="padding: 5px;" align="center">
+        <a href="https://kaggle.com/impathak" target="blank">
+          <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" height="20" />
+        </a>
+      </td>
+      <td style="padding: 5px;" align="center">
+        <a href="https://instagram.com/impathak" target="blank">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="20" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <h1 align="center">Hi there, I'm Ved Prakash Pathak! 👋</h1>
 
@@ -191,7 +194,7 @@ I hold a Bachelors's degree in Mechanical engineering with a [Google cloud certi
 *Note: All projects include pipelines made in Airflow or Kubeflow for workflow orchestration.*
 
 # Certificates
-============
+*checkout my Google cloud profile:- [Google cloud profile](https://www.cloudskillsboost.google/public_profiles/3befdf67-850d-4950-b8df-db6c57ee4bda)
 
 | Certificate Image                                                                                        | Description                          |
 |----------------------------------------------------------------------------------------------------------|--------------------------------------|
