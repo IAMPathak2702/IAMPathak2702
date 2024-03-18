@@ -74,7 +74,7 @@ I hold a Bachelors's degree in Mechanical engineering with a [Google cloud certi
 
 | Category                | Libraries                                                                                               |
 |-------------------------|---------------------------------------------------------------------------------------------------------|
-| Tensorflow              | <img src="https://img.icons8.com/color/48/000000/tensorflow.png)](https://www.tensorflow.org" alt="TensorFlow Logo"  width="50" height="50"> |
+| Tensorflow              | <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/TensorFlow_logo.svg.png" alt="TensorFlow Logo"  width="50" height="50"> |
 |  Tensorflow lite        | <img src="https://github.com/IAMPathak2702/IAMPathak2702/raw/main/pictures/logos/tensorflow-lite-logo-social.png" alt="TensorFlow Lite Logo" width="50" height="50">
  |
 
