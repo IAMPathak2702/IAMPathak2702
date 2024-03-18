@@ -65,78 +65,96 @@ I hold a Bachelors's degree in Mechanical engineering with a [Google cloud certi
 # Technical Skills:
 
 ## Data Visualization 📊:
+| Category          | Libraries                                    |
+|-------------------|----------------------------------------------|
+| Visualization Lib | [<img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/matplotlib.png" alt="Matplotlib" width="100"/>](https://matplotlib.org/), [<img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/Plotly-logo.png" alt="Plotly" width="100"/>](https://plotly.com/python/), [<img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/seaborn.png" alt="Seaborn" width="100"/>](https://seaborn.pydata.org/) |
 
-- Visualization Techniques
 
 ## Deep Learning Frameworks 🧠:
 
-- [TensorFlow](https://www.tensorflow.org/) ![TensorFlow Icon](https://img.icons8.com/color/48/000000/tensorflow.png)
-- [TensorFlow Lite](https://www.tensorflow.org/lite/api_docs/java/org/tensorflow/lite/package-summary) ![TensorFlow Lite Icon](https://img.icons8.com/color/48/000000/tensorflow.png)
+| Category                | Libraries                                                                                               |
+|-------------------------|---------------------------------------------------------------------------------------------------------|
+| deeplearning frameworks | [![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)](https://www.tensorflow.org/) |
+|                         | [![TensorFlow Lite](https://img.icons8.com/color/48/000000/tensorflow.png)](https://www.tensorflow.org/lite/api_docs/java/org/tensorflow/lite/package-summary) |
+
 
 ## Machine Learning Libraries 🤖:
 
-- [Scikit-Learn](https://scikit-learn.org/) ![Scikit-Learn Icon](https://img.icons8.com/color/48/000000/python.png)
+| Category                        | Libraries                                                                                               |
+|---------------------------------|---------------------------------------------------------------------------------------------------------|
+| Machine Learning Libraries 🤖 | [Scikit-Learn](https://scikit-learn.org/) ![Scikit-Learn Icon](https://img.icons8.com/color/48/000000/python.png), [XGBoost](https://xgboost.readthedocs.io/en/latest/) ![XGBoost Icon](https://img.icons8.com/color/48/000000/xgboost.png) |
 
-## Natural Language Processing (NLP) 🗣️:
 
-- Familiarity with NLP concepts
 
-## Computer Vision 👁️:
 
-- [Computer Vision Fundamentals](https://www.coursera.org/learn/image-understanding-tensorflow-gcp)
-- Experience with computer vision applications
 
-## Time Series Analysis ⏲️:
-
-- Familiarity with time series analysis techniques
 
 ## Data Science Fundamentals 📊:
 
-- [Data Structures](https://pll.harvard.edu/subject/data-structures) 
-- [NumPy](https://numpy.org/) ![NumPy Icon](https://img.icons8.com/color/48/000000/python.png)
-- [SQL](https://www.youtube.com/watch?v=h0nxCDiD-zg) ![SQL Icon](https://img.icons8.com/color/48/000000/sql.png)
-- [Extract, Transform, Load (ETL)](#)
+| Concept                               | Description                                                                                                      |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| Data Structures                       | Data structures are a way of organizing and storing data to enable efficient access and modification. They include arrays, linked lists, trees, and graphs. |
+| [NumPy](https://numpy.org/)          | NumPy is a fundamental library for scientific computing in Python. It provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions. |
+| [SQL](https://www.youtube.com/watch?v=h0nxCDiD-zg) | SQL (Structured Query Language) is a domain-specific language used for managing and manipulating relational databases. It allows users to query data, define and modify schemas, and perform various data operations. |
+| Extract, Transform, Load (ETL)        | ETL is a process used in data warehousing and data integration to extract data from various sources, transform it into a usable format, and load it into a target system or database. |
+
 
 ## MLOps Tools & Technologies ⚙️:
 
-- [ML Pipelines on Google Cloud](#)
-- [Apache Spark](https://spark.apache.org/) ![Spark Icon]([https://img.icons8.com/color/48/000000/sparkler-2.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW4T2UIr8cPazvaX44bndiwQaCzUFXtlyVa0SAmwHiAA&s))
-- [Feature Engineering](https://cloud.google.com/vertex-ai/docs/tabular-data/tabular-workflows/feature-engineering) 
-- [Apache Airflow](https://airflow.apache.org/) ![Airflow Icon]([https://img.icons8.com/color/48/000000/airflow.png](https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png))
-- [TFX](https://cloud.google.com/vertex-ai/docs/start/tensorflow) ![TFX Icon](https://img.icons8.com/color/48/000000/tensorflow.png)
-- [Kubeflow](https://www.kubeflow.org/) ![Kubeflow Icon](https://img.icons8.com/color/48/000000/kubernetes.png)
-- [Kubernetes](https://kubernetes.io/) ![Kubernetes Icon](https://img.icons8.com/color/48/000000/kubernetes.png)
-- [Docker](https://www.docker.com/) ![Docker Icon](https://img.icons8.com/color/48/000000/docker.png)
-- [Vertex AI](https://cloud.google.com/vertex-ai) ![Vertex AI Icon](https://img.icons8.com/color/48/000000/google-cloud-platform.png)
-- [MLOps concepts](https://cloud.google.com/vertex-ai/docs/start/introduction-mlops) ![MLOps Icon](https://img.icons8.com/color/48/000000/continuous-deployment.png)
-- [Google Cloud Platform (GCP)](https://cloud.google.com/vertex-ai) ![GCP Icon](https://img.icons8.com/color/48/000000/google-cloud-platform.png)
-- [MLflow](https://docs.arize.com/arize/resources/integrations/mlflow) ![MLflow Icon](https://img.icons8.com/color/48/000000/circuit.png)
-- [Google BigQuery](https://cloud.google.com/bigquery) ![BigQuery Icon](https://img.icons8.com/color/48/000000/google-cloud-platform.png)
+| Library              | Description                                                                                                          |
+|----------------------|----------------------------------------------------------------------------------------------------------------------|
+| ML Pipelines on Google Cloud | [Placeholder](#) |
+| Apache Spark         | Apache Spark is an open-source distributed computing system used for big data processing and analytics. It provides high-level APIs in Java, Scala, Python, and R. |
+| Feature Engineering  | Feature engineering is the process of transforming raw data into features that better represent the underlying problem to the predictive models, improving model accuracy. |
+| Apache Airflow       | Apache Airflow is an open-source platform for orchestrating complex workflows and data pipelines. It allows users to author, schedule, and monitor workflows as Directed Acyclic Graphs (DAGs). |
+| TFX                  | TFX (TensorFlow Extended) is an end-to-end platform for deploying production machine learning pipelines powered by TensorFlow. It facilitates scalable and reliable model deployment and monitoring. |
+| Kubeflow             | Kubeflow is an open-source machine learning toolkit for Kubernetes, providing the essential components needed to develop, deploy, and manage machine learning workflows in a scalable manner. |
+| Kubernetes           | Kubernetes is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications. It enables efficient resource utilization and resilience. |
+| Docker               | Docker is a platform for developing, shipping, and running applications in containers. It enables developers to package applications with all dependencies into a standardized unit for easy deployment. |
+| Vertex AI            | Vertex AI is a managed machine learning platform on Google Cloud that simplifies the process of building, training, and deploying ML models at scale. It offers various tools and services for ML workflows. |
+| MLOps concepts       | MLOps is a set of practices and tools that aim to streamline the machine learning lifecycle, including development, deployment, and maintenance, to enhance collaboration and productivity in ML projects. |
+| MLflow               | MLflow is an open-source platform for managing the end-to-end machine learning lifecycle. It enables tracking experiments, packaging code into reproducible runs, and sharing and deploying models. |
+| Google BigQuery      | Google BigQuery is a fully managed, serverless data warehouse and analytics platform offered by Google Cloud. It allows users to analyze and visualize large datasets using SQL queries in real-time. |
+
 
 ## Web Frameworks 🌐:
 
-- [Streamlit](https://docs.streamlit.io/) ![Streamlit Icon](https://img.icons8.com/color/48/000000/streamlit.png)
-- [FastAPI](https://fastapi.tiangolo.com/) ![FastAPI Icon](https://img.icons8.com/color/48/000000/api-settings.png)
-- [Flask](https://flask.palletsprojects.com/) ![Flask Icon](https://img.icons8.com/color/48/000000/flask.png)
-- [HTML](https://www.w3schools.com/html/) ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png)
-- [CSS](https://www.w3schools.com/css/) ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png)
+-| Framework / Language | Description |
+|----------------------|-------------|
+| [Streamlit](https://docs.streamlit.io/) ![Streamlit Icon](https://img.icons8.com/color/48/000000/streamlit.png) | Streamlit is a Python library that allows you to create interactive web apps for machine learning and data science projects with ease. It provides simple APIs for creating UI elements and integrates seamlessly with data science libraries like Pandas and Plotly. |
+| [FastAPI](https://fastapi.tiangolo.com/) ![FastAPI Icon](https://img.icons8.com/color/48/000000/api-settings.png) | FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints. It's easy to use, easy to learn, and highly efficient, making it a popular choice for building APIs. |
+| [Flask](https://flask.palletsprojects.com/) ![Flask Icon](https://img.icons8.com/color/48/000000/flask.png) | Flask is a lightweight WSGI web application framework in Python. It's designed to make getting started quick and easy, with the ability to scale up to complex applications. Flask provides flexibility and simplicity, making it suitable for a wide range of web applications. |
+| [HTML](https://www.w3schools.com/html/) ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png) | HTML (Hypertext Markup Language) is the standard markup language for creating web pages and web applications. It provides the structure and content of web pages, defining elements such as headings, paragraphs, links, images, and more. |
+| [CSS](https://www.w3schools.com/css/) ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) | CSS (Cascading Style Sheets) is a stylesheet language used for describing the presentation of a document written in HTML. It controls the layout, formatting, and appearance of elements on a web page, allowing for creative and responsive designs. |
+
 
 ## Programming Languages 💻:
 
-- **Python** (Primary Language) ![Python Icon](https://img.icons8.com/color/48/000000/python.png)
+| Programming Language | Description |
+|-----------------------|-------------|
+| **Python**            | Python is the primary programming language used in various domains such as web development, data science, machine learning, and automation. It emphasizes readability and simplicity, making it an ideal choice for beginners and professionals alike. |
+
 
 ## **Cloud Platforms:**
 
--  [AWS ☁️](#)
--  [Google Cloud Platform ☁️](#)
+| Cloud Platform         | Platforms                                                |
+|------------------------|----------------------------------------------------------|
+| **Cloud Platforms:**   | [AWS ![AWS Icon](https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/aws.png)](#), [Google Cloud Platform ![GCP Icon](https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/gcp.png)](#), [Azure ![Azure Icon](https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/Microsoft_Azure-Logo.png)](#) |
+
+
 
 ## Additional Skills 🌟:
 
-- [Statistical Modeling](https://www.tensorflow.org/certificate)
-- [Long Short-term Memory (LSTM) Networks](https://en.wikipedia.org/wiki/Long_short-term_memory)
-- Large Language Models (LLM)
-- RESTful API
-- Tensorflow Serving
+| Category            | Description                                              |
+|---------------------|----------------------------------------------------------|
+| NLP                 | Natural Language Processing (NLP) involves understanding, interpreting, and generating human language data. It's used in sentiment analysis, language translation, and text summarization. |
+| COMP VISION         | Computer Vision deals with the interpretation of visual data using machine learning techniques. It's applied in image classification, object detection, and facial recognition systems. |
+| TIME SERIES         | Time Series Analysis involves analyzing data points collected over time to identify patterns and make predictions. It's used in forecasting stock prices, weather predictions, and sales forecasting. |
+| GAN                 | Generative Adversarial Networks (GANs) consist of two neural networks, generator and discriminator, competing against each other. They're used in generating realistic images, video synthesis, and data augmentation. |
+| Large Language Models (LLM) | Large Language Models (LLMs) like GPT (Generative Pre-trained Transformer) excel in understanding and generating human-like text. They're used in chatbots, language translation, and content generation. |
+| RESTful API         | RESTful APIs provide a standardized way for systems to communicate over HTTP. They enable interoperability between different systems, allowing for efficient data exchange and integration. |
+| Tensorflow Serving  | TensorFlow Serving is a flexible, high-performance serving system for machine learning models. It simplifies deploying models in production environments, ensuring scalability and low-latency inference. |
+
 
 # Education 🎓:
 
