@@ -201,9 +201,6 @@ Looking forward to connecting with you!
     <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/comp%20vision.png" alt="Computer Vision" width="200">
     <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/datascience.jpg" alt="Data Science" width="200">
     <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/generative%20ai.png" alt="Generative AI" width="200">
-</div>
-
-<div>
     <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/introduction%20to%20image%20generation.png" alt="Introduction to Image Generation" width="200">
     <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/kuebflow.jpg" alt="Kuebflow" width="200">
     <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/ml%20fundamentals.png" alt="ML Fundamentals" width="200">
@@ -213,9 +210,6 @@ Looking forward to connecting with you!
     <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/ml%20pipelines.png" alt="ML Pipelines" width="200">
     <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/mlops.png" alt="MLOps" width="200">
     <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/production%20machine%20leaning.png" alt="Production Machine Learning" width="200">
-</div>
-
-<div>
     <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/recommendation%20system.png" alt="Recommendation System" width="200">
     <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/tensorflow.png" alt="TensorFlow" width="200">
 </div>
