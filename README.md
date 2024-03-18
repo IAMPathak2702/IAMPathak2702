@@ -82,8 +82,9 @@ I hold a Bachelors's degree in Mechanical engineering with a [Google cloud certi
 
 | Library      | Website                                            | Logo                                                                                                               |
 |--------------|----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
-| Scikit-Learn | [Scikit-Learn](https://scikit-learn.org/)          | ![Scikit-Learn Logo](https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/scikitlearn.png =48x48)                                            |
-| XGBoost      | [XGBoost](https://xgboost.readthedocs.io/en/latest/) | ![XGBoost Logo](https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/XGBoost_logo.png) |
+| Scikit-Learn | [Scikit-Learn](https://scikit-learn.org/)          | <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/scikitlearn.png" alt="Scikit-Learn Logo" width="30" height="30">|
+| XGBoost      | [XGBoost](https://xgboost.readthedocs.io/en/latest/) |<img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/XGBoost_logo.png" alt="XGBoost Logo" width="30" height="30"> |
+
 
 
 
