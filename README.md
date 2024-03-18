@@ -121,7 +121,7 @@ I hold a Bachelors's degree in Mechanical engineering with a [Google cloud certi
 
 | Framework / Language | Description |
 |----------------------|-------------|
-| [Streamlit](https://docs.streamlit.io/) !![Streamlit](https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/streamlit-logo-secondary-colormark-darktext.png =250x250)
+| [Streamlit](https://docs.streamlit.io/) !![Streamlit](https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/streamlit-logo-secondary-colormark-darktext.png =30x30)
  | Streamlit is a Python library that allows you to create interactive web apps for machine learning and data science projects with ease. It provides simple APIs for creating UI elements and integrates seamlessly with data science libraries like Pandas and Plotly. |
 | [FastAPI](https://fastapi.tiangolo.com/) ![FastAPI Icon](https://img.icons8.com/color/48/000000/api-settings.png) | FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints. It's easy to use, easy to learn, and highly efficient, making it a popular choice for building APIs. |
 | [Flask](https://flask.palletsprojects.com/) ![Flask Icon](https://img.icons8.com/color/48/000000/flask.png) | Flask is a lightweight WSGI web application framework in Python. It's designed to make getting started quick and easy, with the ability to scale up to complex applications. Flask provides flexibility and simplicity, making it suitable for a wide range of web applications. |
