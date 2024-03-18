@@ -1,4 +1,6 @@
 <h1 align="center> # Hi there, I'm Ved Prakash Pathak! 👋 </h1> 
+
+    
 <p align="right"><a href="https://twitter.com/impathak1" target="blank"><img src="https://img.shields.io/twitter/follow/impathak1?logo=twitter&style=for-the-badge" alt="impathak1" /></a> </p>
 
 <h2 align="center">A passionate Machine Learning engineer | MLOps engineer | Data scientist with a keen interest in leveraging cutting-edge technologies to solve complex problems and drive innovation in the field of machine learning and artificial intelligence. </h2>
