@@ -193,50 +193,30 @@ Feel free to connect with me on:
 
 Looking forward to connecting with you!
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Certificates</title>
-<style>
-  .certificate {
-    width: calc(25% - 20px);
-    height: auto;
-    margin: 10px;
-    float: left;
-    box-sizing: border-box;
-  }
 
-  .row:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-</style>
-</head>
-<body>
 
-<div class="row">
-  <img class="certificate" src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/comp%20vision.png" alt="Computer Vision">
-  <img class="certificate" src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/datascience.jpg" alt="Data Science">
-  <img class="certificate" src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/generative%20ai.png" alt="Generative AI">
-  <img class="certificate" src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/introduction%20to%20image%20generation.png" alt="Introduction to Image Generation">
+
+
+<div>
+    <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/comp%20vision.png" alt="Computer Vision" width="200">
+    <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/datascience.jpg" alt="Data Science" width="200">
+    <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/generative%20ai.png" alt="Generative AI" width="200">
 </div>
 
-<div class="row">
-  <img class="certificate" src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/kuebflow.jpg" alt="Kuebflow">
-  <img class="certificate" src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/ml%20fundamentals.png" alt="ML Fundamentals">
-  <img class="certificate" src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/ml%20pipelines.png" alt="ML Pipelines">
-  <img class="certificate" src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/mlops.png" alt="MLOps">
+<div>
+    <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/introduction%20to%20image%20generation.png" alt="Introduction to Image Generation" width="200">
+    <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/kuebflow.jpg" alt="Kuebflow" width="200">
+    <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/ml%20fundamentals.png" alt="ML Fundamentals" width="200">
 </div>
 
-<div class="row">
-  <img class="certificate" src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/production%20machine%20leaning.png" alt="Production Machine Learning">
-  <img class="certificate" src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/recommendation%20system.png" alt="Recommendation System">
-  <img class="certificate" src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/tensorflow.png" alt="TensorFlow">
+<div>
+    <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/ml%20pipelines.png" alt="ML Pipelines" width="200">
+    <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/mlops.png" alt="MLOps" width="200">
+    <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/production%20machine%20leaning.png" alt="Production Machine Learning" width="200">
 </div>
 
-</body>
-</html>
+<div>
+    <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/recommendation%20system.png" alt="Recommendation System" width="200">
+    <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/tensorflow.png" alt="TensorFlow" width="200">
+</div>
 
