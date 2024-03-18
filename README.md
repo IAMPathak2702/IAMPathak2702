@@ -150,6 +150,40 @@ Certainly! Below is the complete HTML code incorporating all the categories and 
             <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
             </a>
+                        PyTorch <br>
+            <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+            </a>
+            OpenCV <br>
+            <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+                <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+            </a>
+            Seaborn
+        </td>
+    </tr>
+    <tr>
+        <td>Operating Systems</td>
+        <td>
+            <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+            </a>
+            Linux
+        </td>
+    </tr>
+    <tr>
+        <td>Visualization/Monitoring</td>
+        <td>
+            <a href="https://grafana.com" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+            </a>
+            Grafana
+        </td>
+    </tr>
+</table>
+
+</body>
+</html>
+
 
 
 # Technical Skills:
