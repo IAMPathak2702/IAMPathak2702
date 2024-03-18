@@ -119,7 +119,7 @@ I hold a Bachelors's degree in Mechanical engineering with a [Google cloud certi
 
 ## Web Frameworks 🌐:
 
--| Framework / Language | Description |
+| Framework / Language | Description |
 |----------------------|-------------|
 | [Streamlit](https://docs.streamlit.io/) ![Streamlit Icon](https://img.icons8.com/color/48/000000/streamlit.png) | Streamlit is a Python library that allows you to create interactive web apps for machine learning and data science projects with ease. It provides simple APIs for creating UI elements and integrates seamlessly with data science libraries like Pandas and Plotly. |
 | [FastAPI](https://fastapi.tiangolo.com/) ![FastAPI Icon](https://img.icons8.com/color/48/000000/api-settings.png) | FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints. It's easy to use, easy to learn, and highly efficient, making it a popular choice for building APIs. |
@@ -139,7 +139,8 @@ I hold a Bachelors's degree in Mechanical engineering with a [Google cloud certi
 
 | Cloud Platform         | Platforms                                                |
 |------------------------|----------------------------------------------------------|
-| **Cloud Platforms:**   | [AWS ![AWS Icon](https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/aws.png)](#), [Google Cloud Platform ![GCP Icon](https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/gcp.png)](#), [Azure ![Azure Icon](https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/Microsoft_Azure-Logo.png)](#) |
+| **Cloud Platforms:**   | [<img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/aws.png" alt="AWS" width="48"/>](#), [<img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/gcp.png" alt="GCP" width="48"/>](#), [<img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/Microsoft_Azure-Logo.png" alt="Azure" width="48"/>](#) |
+
 
 
 
