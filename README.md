@@ -74,8 +74,8 @@ I hold a Bachelors's degree in Mechanical engineering with a [Google cloud certi
 
 | Category                | Libraries                                                                                               |
 |-------------------------|---------------------------------------------------------------------------------------------------------|
-| Tensorflow              | <img src="https://img.icons8.com/color/48/000000/tensorflow.png)](https://www.tensorflow.org" alt="TensorFlow Logo"  width="50" height="50"> |
-|  Tensorflow lite        | <img src="https://github.com/IAMPathak2702/IAMPathak2702/raw/main/pictures/logos/tensorflow-lite-logo-social.png" alt="TensorFlow Lite Logo" width="50" height="50">
+| Tensorflow              | <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/TensorFlow_logo.svg.png" alt="TensorFlow Logo"  width="100" height="100"> |
+|  Tensorflow lite        | <img src="https://github.com/IAMPathak2702/IAMPathak2702/raw/main/pictures/logos/tensorflow-lite-logo-social.png" alt="TensorFlow Lite Logo" width="100" height="100">
  |
 
 
@@ -83,8 +83,8 @@ I hold a Bachelors's degree in Mechanical engineering with a [Google cloud certi
 
 | Library      | Website                                            | Logo                                                                                                               |
 |--------------|----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
-| Scikit-Learn | [Scikit-Learn](https://scikit-learn.org/)          | <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/scikitlearn.png" alt="Scikit-Learn Logo" width="50" height="50">|
-| XGBoost      | [XGBoost](https://xgboost.readthedocs.io/en/latest/) |<img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/XGBoost_logo.png" alt="XGBoost Logo" width="50" height="50"> |
+| Scikit-Learn | [Scikit-Learn](https://scikit-learn.org/)          | <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/scikitlearn.png" alt="Scikit-Learn Logo" width="100" height="100">|
+| XGBoost      | [XGBoost](https://xgboost.readthedocs.io/en/latest/) |<img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/XGBoost_logo.png" alt="XGBoost Logo" width="100" height="100"> |
 
 
 
@@ -125,11 +125,11 @@ I hold a Bachelors's degree in Mechanical engineering with a [Google cloud certi
 
 | Framework / Language | Description |
 |----------------------|-------------|
-| [Streamlit](https://docs.streamlit.io/) <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" width="30"> | Streamlit is a Python library that allows you to create interactive web apps for machine learning and data science projects with ease. It provides simple APIs for creating UI elements and integrates seamlessly with data science libraries like Pandas and Plotly. |
-| [FastAPI](https://fastapi.tiangolo.com/) <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="FastAPI" width="30"> | FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints. It's easy to use, easy to learn, and highly efficient, making it a popular choice for building APIs. |
-| [Flask](https://flask.palletsprojects.com/) <img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask" width="30"> | Flask is a lightweight WSGI web application framework in Python. It's designed to make getting started quick and easy, with the ability to scale up to complex applications. Flask provides flexibility and simplicity, making it suitable for a wide range of web applications. |
-| [HTML](https://www.w3schools.com/html/) <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="30"> | HTML (Hypertext Markup Language) is the standard markup language for creating web pages and web applications. It provides the structure and content of web pages, defining elements such as headings, paragraphs, links, images, and more. |
-| [CSS](https://www.w3schools.com/css/) <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="30"> | CSS (Cascading Style Sheets) is a stylesheet language used for describing the presentation of a document written in HTML. It controls the layout, formatting, and appearance of elements on a web page, allowing for creative and responsive designs. |
+| [Streamlit](https://docs.streamlit.io/) <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" width="100" height="100"> | Streamlit is a Python library that allows you to create interactive web apps for machine learning and data science projects with ease. It provides simple APIs for creating UI elements and integrates seamlessly with data science libraries like Pandas and Plotly. |
+| [FastAPI](https://fastapi.tiangolo.com/) <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="FastAPI" width="100" height="100"> | FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints. It's easy to use, easy to learn, and highly efficient, making it a popular choice for building APIs. |
+| [Flask](https://flask.palletsprojects.com/) <img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask" width="100" height="100"> | Flask is a lightweight WSGI web application framework in Python. It's designed to make getting started quick and easy, with the ability to scale up to complex applications. Flask provides flexibility and simplicity, making it suitable for a wide range of web applications. |
+| [HTML](https://www.w3schools.com/html/) <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="100" height="100"> | HTML (Hypertext Markup Language) is the standard markup language for creating web pages and web applications. It provides the structure and content of web pages, defining elements such as headings, paragraphs, links, images, and more. |
+| [CSS](https://www.w3schools.com/css/) <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="100" height="100"> | CSS (Cascading Style Sheets) is a stylesheet language used for describing the presentation of a document written in HTML. It controls the layout, formatting, and appearance of elements on a web page, allowing for creative and responsive designs. |
 
 
 
@@ -144,9 +144,9 @@ I hold a Bachelors's degree in Mechanical engineering with a [Google cloud certi
 
 | Cloud Platform         | Platforms                                                |
 |------------------------|----------------------------------------------------------|
-| **Cloud Platforms:**   | [<img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/aws.png" alt="AWS" width="48"/>](#) Amazon Web Services (AWS) is a comprehensive cloud computing platform provided by Amazon. It offers a wide range of services including computing power, storage, and database solutions, among others. | 
-|                        | [<img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/gcp.png" alt="GCP" width="48"/>](#) Google Cloud Platform (GCP) is a suite of cloud computing services offered by Google. It provides infrastructure as a service (IaaS), platform as a service (PaaS), and serverless computing environments, along with storage and machine learning capabilities. |
-|                        | [<img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/Microsoft_Azure-Logo.png" alt="Azure" width="48"/>](#) Microsoft Azure is a cloud computing service offered by Microsoft. It provides a wide range of services including virtual computing, storage, analytics, and networking. Azure is known for its scalability, reliability, and integration with Microsoft's ecosystem of products and services. |
+| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/aws.png" alt="AWS" width="100" height="100"/>   |  Amazon Web Services (AWS) is a comprehensive cloud computing platform provided by Amazon. It offers a wide range of services including computing power, storage, and database solutions, among others. | 
+|<img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/gcp.png" alt="GCP" width="100" height="100"/>                        |  Google Cloud Platform (GCP) is a suite of cloud computing services offered by Google. It provides infrastructure as a service (IaaS), platform as a service (PaaS), and serverless computing environments, along with storage and machine learning capabilities. |
+|<img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/Microsoft_Azure-Logo.png" alt="Azure" width="100" height="100"/>            |  Microsoft Azure is a cloud computing service offered by Microsoft. It provides a wide range of services including virtual computing, storage, analytics, and networking. Azure is known for its scalability, reliability, and integration with Microsoft's ecosystem of products and services. |
 
 
 
@@ -195,17 +195,17 @@ I hold a Bachelors's degree in Mechanical engineering with a [Google cloud certi
 
 | Certificate Image                                                                                        | Description                          |
 |----------------------------------------------------------------------------------------------------------|--------------------------------------|
-| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/comp%20vision.png" alt="Computer Vision" width="300">                | Computer Vision                     |
-| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/datascience.jpg" alt="Data Science" width="300">                      | Data Science                        |
-| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/generative%20ai.png" alt="Generative AI" width="300">                  | Generative AI                       |
-| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/introduction%20to%20image%20generation.png" alt="Introduction to Image Generation" width="300"> | Introduction to Image Generation   |
-| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/kuebflow.jpg" alt="Kuebflow" width="300">                              | Kuebflow                            |
-| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/ml%20fundamentals.png" alt="ML Fundamentals" width="300">               | ML Fundamentals                     |
-| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/ml%20pipelines.png" alt="ML Pipelines" width="300">                     | ML Pipelines                        |
-| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/mlops.png" alt="MLOps" width="300">                                        | MLOps                               |
-| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/production%20machine%20leaning.png" alt="Production Machine Learning" width="300"> | Production Machine Learning        |
-| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/recommendation%20system.png" alt="Recommendation System" width="300">   | Recommendation System               |
-| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/tensorflow.png" alt="TensorFlow" width="300">                           | TensorFlow                          |
+| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/comp%20vision.png" alt="Computer Vision" width="600">                | Computer Vision                     |
+| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/datascience.jpg" alt="Data Science" width="600">                      | Data Science                        |
+| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/generative%20ai.png" alt="Generative AI" width="600">                  | Generative AI                       |
+| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/introduction%20to%20image%20generation.png" alt="Introduction to Image Generation" width="600"> | Introduction to Image Generation   |
+| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/kuebflow.jpg" alt="Kuebflow" width="600">                              | Kuebflow                            |
+| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/ml%20fundamentals.png" alt="ML Fundamentals" width="600">               | ML Fundamentals                     |
+| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/ml%20pipelines.png" alt="ML Pipelines" width="600">                     | ML Pipelines                        |
+| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/mlops.png" alt="MLOps" width="600">                                        | MLOps                               |
+| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/production%20machine%20leaning.png" alt="Production Machine Learning" width="600"> | Production Machine Learning        |
+| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/recommendation%20system.png" alt="Recommendation System" width="600">   | Recommendation System               |
+| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/tensorflow.png" alt="TensorFlow" width="600">                           | TensorFlow                          |
 
 
 
