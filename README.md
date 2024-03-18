@@ -1,8 +1,6 @@
-<h1> # Hi there, I'm Ved Prakash Pathak! 👋 </h1>
-<h2 align="center">A passionate Machine Learning engineer | MLOps engineer | Data scientist </h2>
-
-I am a  **ML engineer|MlOps|Data Scientist** with a keen interest in leveraging cutting-edge technologies to solve complex problems and drive innovation in the field of machine learning and artificial intelligence.
-
+<h1 align="center> # Hi there, I'm Ved Prakash Pathak! 👋 </h1>
+<h2 align="center">A passionate Machine Learning engineer | MLOps engineer | Data scientist with a keen interest in leveraging cutting-edge technologies to solve complex problems and drive innovation in the field of machine learning and artificial intelligence. </h2>
+<h4>
 - 🔭 I'm actively implementing a cutting-edge MLops CI/CD pipeline integrated with a Continuous Training Approach to streamline our machine learning model development and deployment process.
 - 🌱 I’m currently learning advanced deep learning  and automating MlOps in every domain over Cloud Platform (GCP and AWS) .
 - 👯 I’m looking to collaborate on projects related to computer vision, natural language processing, and predictive analytics.
@@ -10,6 +8,7 @@ I am a  **ML engineer|MlOps|Data Scientist** with a keen interest in leveraging 
 - 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/impathak/).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: As a passionate cricketer, I'm thrilled to be batting for the implementation of a robust MLops CI/CD pipeline coupled with a Continuous Training Approach, aiming to score big wins in optimizing our machine learning model development and deployment process.
+</h4>
 
 ## About Me
 
