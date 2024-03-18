@@ -1,14 +1,35 @@
-<h1 align="center> # Hi there, I'm Ved Prakash Pathak! 👋 </h1>
+<h1 align="center> # Hi there, I'm Ved Prakash Pathak! 👋 </h1> 
+<p align="right"><a href="https://twitter.com/impathak1" target="blank"><img src="https://img.shields.io/twitter/follow/impathak1?logo=twitter&style=for-the-badge" alt="impathak1" /></a> </p>
+
 <h2 align="center">A passionate Machine Learning engineer | MLOps engineer | Data scientist with a keen interest in leveraging cutting-edge technologies to solve complex problems and drive innovation in the field of machine learning and artificial intelligence. </h2>
+
+
 <h4>
-- 🔭 I'm actively implementing a cutting-edge MLops CI/CD pipeline integrated with a Continuous Training Approach to streamline our machine learning model development and deployment process.
-- 🌱 I’m currently learning advanced deep learning  and automating MlOps in every domain over Cloud Platform (GCP and AWS) .
-- 👯 I’m looking to collaborate on projects related to computer vision, natural language processing, and predictive analytics.
-- 💬 Ask me about machine learning model deployment, data preprocessing techniques, and algorithm optimization.
-- 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/impathak/).
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: As a passionate cricketer, I'm thrilled to be batting for the implementation of a robust MLops CI/CD pipeline coupled with a Continuous Training Approach, aiming to score big wins in optimizing our machine learning model development and deployment process.
+    <ul>
+        <li>
+            🔭 I'm actively implementing a cutting-edge MLops CI/CD pipeline integrated with a Continuous Training Approach to streamline our machine learning model development and deployment process.
+        </li>
+        <li>
+            🌱 I’m currently learning advanced deep learning and automating MlOps in every domain over Cloud Platform (GCP and AWS).
+        </li>
+        <li>
+            👯 I’m looking to collaborate on projects related to computer vision, natural language processing, and predictive analytics.
+        </li>
+        <li>
+            💬 Ask me about machine learning model deployment, data preprocessing techniques, and algorithm optimization.
+        </li>
+        <li>
+            📫 How to reach me: You can connect with me on <a href="https://www.linkedin.com/in/impathak/">LinkedIn</a>.
+        </li>
+        <li>
+            😄 Pronouns: He/Him
+        </li>
+        <li>
+            ⚡ Fun fact: As a passionate cricketer, I'm thrilled to be batting for the implementation of a robust MLops CI/CD pipeline coupled with a Continuous Training Approach, aiming to score big wins in optimizing our machine learning model development and deployment process.
+        </li>
+    </ul>
 </h4>
+
 
 ## About Me
 
@@ -17,7 +38,7 @@ I hold a Bachelors's degree in Mechanical engineering with a [Google cloud certi
 
 
 
-<p align="left"> <a href="https://twitter.com/impathak1" target="blank"><img src="https://img.shields.io/twitter/follow/impathak1?logo=twitter&style=for-the-badge" alt="impathak1" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
