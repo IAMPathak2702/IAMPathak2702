@@ -74,16 +74,17 @@ I hold a Bachelors's degree in Mechanical engineering with a [Google cloud certi
 
 | Category                | Libraries                                                                                               |
 |-------------------------|---------------------------------------------------------------------------------------------------------|
-| deeplearning frameworks | [![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)](https://www.tensorflow.org/) |
-|                         | [![TensorFlow Lite](https://img.icons8.com/color/48/000000/tensorflow.png)](https://www.tensorflow.org/lite/api_docs/java/org/tensorflow/lite/package-summary) |
+| Tensorflow              | [![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)](https://www.tensorflow.org/) |
+|  Tensorflow lite        | [![TensorFlow Lite](https://img.icons8.com/color/48/000000/tensorflow.png)](https://www.tensorflow.org/lite/api_docs/java/org/tensorflow/lite/package-summary) |
 
 
 ## Machine Learning Libraries 🤖:
 
-| Category                        | Libraries                                                                                               |
-|---------------------------------|---------------------------------------------------------------------------------------------------------|
-| Machine Learning Libraries 🤖 | [Scikit-Learn](https://scikit-learn.org/) ![Scikit-Learn Icon](https://img.icons8.com/color/48/000000/python.png), [XGBoost](https://xgboost.readthedocs.io/en/latest/) ![XGBoost](<img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/XGBoost_logo.png" alt="XGBoost Logo" width="100">
-) |
+| Library      | Website                                            | Logo                                                                                                               |
+|--------------|----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| Scikit-Learn | [Scikit-Learn](https://scikit-learn.org/)          | ![Scikit-Learn Logo](https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/scikitlearn.png =48x48)                                            |
+| XGBoost      | [XGBoost](https://xgboost.readthedocs.io/en/latest/) | ![XGBoost Logo](https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/XGBoost_logo.png) |
+
 
 
 
@@ -122,13 +123,12 @@ I hold a Bachelors's degree in Mechanical engineering with a [Google cloud certi
 
 | Framework / Language | Description |
 |----------------------|-------------|
-| [Streamlit](https://docs.streamlit.io/) <a href="https://docs.streamlit.io/"><img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" width="30"></a>
+| [Streamlit](https://docs.streamlit.io/) <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" width="30"> | Streamlit is a Python library that allows you to create interactive web apps for machine learning and data science projects with ease. It provides simple APIs for creating UI elements and integrates seamlessly with data science libraries like Pandas and Plotly. |
+| [FastAPI](https://fastapi.tiangolo.com/) <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="FastAPI" width="30"> | FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints. It's easy to use, easy to learn, and highly efficient, making it a popular choice for building APIs. |
+| [Flask](https://flask.palletsprojects.com/) <img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask" width="30"> | Flask is a lightweight WSGI web application framework in Python. It's designed to make getting started quick and easy, with the ability to scale up to complex applications. Flask provides flexibility and simplicity, making it suitable for a wide range of web applications. |
+| [HTML](https://www.w3schools.com/html/) <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="30"> | HTML (Hypertext Markup Language) is the standard markup language for creating web pages and web applications. It provides the structure and content of web pages, defining elements such as headings, paragraphs, links, images, and more. |
+| [CSS](https://www.w3schools.com/css/) <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="30"> | CSS (Cascading Style Sheets) is a stylesheet language used for describing the presentation of a document written in HTML. It controls the layout, formatting, and appearance of elements on a web page, allowing for creative and responsive designs. |
 
- | Streamlit is a Python library that allows you to create interactive web apps for machine learning and data science projects with ease. It provides simple APIs for creating UI elements and integrates seamlessly with data science libraries like Pandas and Plotly. |
-| [FastAPI](https://fastapi.tiangolo.com/) ![FastAPI Icon](https://img.icons8.com/color/48/000000/api-settings.png) | FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints. It's easy to use, easy to learn, and highly efficient, making it a popular choice for building APIs. |
-| [Flask](https://flask.palletsprojects.com/) ![Flask Icon](https://img.icons8.com/color/48/000000/flask.png) | Flask is a lightweight WSGI web application framework in Python. It's designed to make getting started quick and easy, with the ability to scale up to complex applications. Flask provides flexibility and simplicity, making it suitable for a wide range of web applications. |
-| [HTML](https://www.w3schools.com/html/) ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png) | HTML (Hypertext Markup Language) is the standard markup language for creating web pages and web applications. It provides the structure and content of web pages, defining elements such as headings, paragraphs, links, images, and more. |
-| [CSS](https://www.w3schools.com/css/) ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) | CSS (Cascading Style Sheets) is a stylesheet language used for describing the presentation of a document written in HTML. It controls the layout, formatting, and appearance of elements on a web page, allowing for creative and responsive designs. |
 
 
 ## Programming Languages 💻:
