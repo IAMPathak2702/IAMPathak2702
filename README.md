@@ -74,15 +74,18 @@ I hold a Bachelors's degree in Mechanical engineering with a [Google cloud certi
 
 | Category                | Libraries                                                                                               |
 |-------------------------|---------------------------------------------------------------------------------------------------------|
-| deeplearning frameworks | [![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)](https://www.tensorflow.org/) |
-|                         | [![TensorFlow Lite](https://img.icons8.com/color/48/000000/tensorflow.png)](https://www.tensorflow.org/lite/api_docs/java/org/tensorflow/lite/package-summary) |
+| Tensorflow              | [![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)](https://www.tensorflow.org/) |
+|  Tensorflow lite        | [![TensorFlow Lite](https://img.icons8.com/color/48/000000/tensorflow.png)](https://www.tensorflow.org/lite/api_docs/java/org/tensorflow/lite/package-summary) |
 
 
 ## Machine Learning Libraries 🤖:
 
-| Category                        | Libraries                                                                                               |
-|---------------------------------|---------------------------------------------------------------------------------------------------------|
-| Machine Learning Libraries 🤖 | [Scikit-Learn](https://scikit-learn.org/) ![Scikit-Learn Icon](https://img.icons8.com/color/48/000000/python.png), [XGBoost](https://xgboost.readthedocs.io/en/latest/) ![XGBoost Icon](https://img.icons8.com/color/48/000000/xgboost.png) |
+| Library      | Website                                            | Logo                                                                                                               |
+|--------------|----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| Scikit-Learn | [Scikit-Learn](https://scikit-learn.org/)          | <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/scikitlearn.png" alt="Scikit-Learn Logo" width="30" height="30">|
+| XGBoost      | [XGBoost](https://xgboost.readthedocs.io/en/latest/) |<img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/XGBoost_logo.png" alt="XGBoost Logo" width="30" height="30"> |
+
+
 
 
 
@@ -103,7 +106,7 @@ I hold a Bachelors's degree in Mechanical engineering with a [Google cloud certi
 
 | Library              | Description                                                                                                          |
 |----------------------|----------------------------------------------------------------------------------------------------------------------|
-| ML Pipelines on Google Cloud | [Placeholder](#) |
+| ML Pipelines on Google Cloud |Google Cloud ML Pipelines streamline end-to-end machine learning workflows with automation, orchestration, and monitoring, leveraging services like Dataflow, AI Platform, and Kubeflow for efficient model development and deployment. |
 | Apache Spark         | Apache Spark is an open-source distributed computing system used for big data processing and analytics. It provides high-level APIs in Java, Scala, Python, and R. |
 | Feature Engineering  | Feature engineering is the process of transforming raw data into features that better represent the underlying problem to the predictive models, improving model accuracy. |
 | Apache Airflow       | Apache Airflow is an open-source platform for orchestrating complex workflows and data pipelines. It allows users to author, schedule, and monitor workflows as Directed Acyclic Graphs (DAGs). |
@@ -121,11 +124,12 @@ I hold a Bachelors's degree in Mechanical engineering with a [Google cloud certi
 
 | Framework / Language | Description |
 |----------------------|-------------|
-| [Streamlit](https://docs.streamlit.io/) ![Streamlit Icon](https://img.icons8.com/color/48/000000/streamlit.png) | Streamlit is a Python library that allows you to create interactive web apps for machine learning and data science projects with ease. It provides simple APIs for creating UI elements and integrates seamlessly with data science libraries like Pandas and Plotly. |
-| [FastAPI](https://fastapi.tiangolo.com/) ![FastAPI Icon](https://img.icons8.com/color/48/000000/api-settings.png) | FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints. It's easy to use, easy to learn, and highly efficient, making it a popular choice for building APIs. |
-| [Flask](https://flask.palletsprojects.com/) ![Flask Icon](https://img.icons8.com/color/48/000000/flask.png) | Flask is a lightweight WSGI web application framework in Python. It's designed to make getting started quick and easy, with the ability to scale up to complex applications. Flask provides flexibility and simplicity, making it suitable for a wide range of web applications. |
-| [HTML](https://www.w3schools.com/html/) ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png) | HTML (Hypertext Markup Language) is the standard markup language for creating web pages and web applications. It provides the structure and content of web pages, defining elements such as headings, paragraphs, links, images, and more. |
-| [CSS](https://www.w3schools.com/css/) ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) | CSS (Cascading Style Sheets) is a stylesheet language used for describing the presentation of a document written in HTML. It controls the layout, formatting, and appearance of elements on a web page, allowing for creative and responsive designs. |
+| [Streamlit](https://docs.streamlit.io/) <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" width="30"> | Streamlit is a Python library that allows you to create interactive web apps for machine learning and data science projects with ease. It provides simple APIs for creating UI elements and integrates seamlessly with data science libraries like Pandas and Plotly. |
+| [FastAPI](https://fastapi.tiangolo.com/) <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="FastAPI" width="30"> | FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints. It's easy to use, easy to learn, and highly efficient, making it a popular choice for building APIs. |
+| [Flask](https://flask.palletsprojects.com/) <img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask" width="30"> | Flask is a lightweight WSGI web application framework in Python. It's designed to make getting started quick and easy, with the ability to scale up to complex applications. Flask provides flexibility and simplicity, making it suitable for a wide range of web applications. |
+| [HTML](https://www.w3schools.com/html/) <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="30"> | HTML (Hypertext Markup Language) is the standard markup language for creating web pages and web applications. It provides the structure and content of web pages, defining elements such as headings, paragraphs, links, images, and more. |
+| [CSS](https://www.w3schools.com/css/) <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="30"> | CSS (Cascading Style Sheets) is a stylesheet language used for describing the presentation of a document written in HTML. It controls the layout, formatting, and appearance of elements on a web page, allowing for creative and responsive designs. |
+
 
 
 ## Programming Languages 💻:
