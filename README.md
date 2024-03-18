@@ -82,7 +82,7 @@ I hold a Bachelors's degree in Mechanical engineering with a [Google cloud certi
 
 | Category                        | Libraries                                                                                               |
 |---------------------------------|---------------------------------------------------------------------------------------------------------|
-| Machine Learning Libraries 🤖 | [Scikit-Learn](https://scikit-learn.org/) ![Scikit-Learn Icon](https://img.icons8.com/color/48/000000/python.png), [XGBoost](https://xgboost.readthedocs.io/en/latest/) ![XGBoost Icon](https://img.icons8.com/color/48/000000/xgboost.png) |
+| Machine Learning Libraries 🤖 | [Scikit-Learn](https://scikit-learn.org/) ![Scikit-Learn Icon](https://img.icons8.com/color/48/000000/python.png), [XGBoost](https://xgboost.readthedocs.io/en/latest/) ![XGBoost](https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/XGBoost_logo.png) |
 
 
 
@@ -103,7 +103,7 @@ I hold a Bachelors's degree in Mechanical engineering with a [Google cloud certi
 
 | Library              | Description                                                                                                          |
 |----------------------|----------------------------------------------------------------------------------------------------------------------|
-| ML Pipelines on Google Cloud | [Placeholder](#) |
+| ML Pipelines on Google Cloud |Google Cloud ML Pipelines streamline end-to-end machine learning workflows with automation, orchestration, and monitoring, leveraging services like Dataflow, AI Platform, and Kubeflow for efficient model development and deployment. |
 | Apache Spark         | Apache Spark is an open-source distributed computing system used for big data processing and analytics. It provides high-level APIs in Java, Scala, Python, and R. |
 | Feature Engineering  | Feature engineering is the process of transforming raw data into features that better represent the underlying problem to the predictive models, improving model accuracy. |
 | Apache Airflow       | Apache Airflow is an open-source platform for orchestrating complex workflows and data pipelines. It allows users to author, schedule, and monitor workflows as Directed Acyclic Graphs (DAGs). |
@@ -121,7 +121,8 @@ I hold a Bachelors's degree in Mechanical engineering with a [Google cloud certi
 
 | Framework / Language | Description |
 |----------------------|-------------|
-| [Streamlit](https://docs.streamlit.io/) ![Streamlit Icon](https://img.icons8.com/color/48/000000/streamlit.png) | Streamlit is a Python library that allows you to create interactive web apps for machine learning and data science projects with ease. It provides simple APIs for creating UI elements and integrates seamlessly with data science libraries like Pandas and Plotly. |
+| [Streamlit](https://docs.streamlit.io/) !![Streamlit](https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/streamlit-logo-secondary-colormark-darktext.png =250x250)
+ | Streamlit is a Python library that allows you to create interactive web apps for machine learning and data science projects with ease. It provides simple APIs for creating UI elements and integrates seamlessly with data science libraries like Pandas and Plotly. |
 | [FastAPI](https://fastapi.tiangolo.com/) ![FastAPI Icon](https://img.icons8.com/color/48/000000/api-settings.png) | FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints. It's easy to use, easy to learn, and highly efficient, making it a popular choice for building APIs. |
 | [Flask](https://flask.palletsprojects.com/) ![Flask Icon](https://img.icons8.com/color/48/000000/flask.png) | Flask is a lightweight WSGI web application framework in Python. It's designed to make getting started quick and easy, with the ability to scale up to complex applications. Flask provides flexibility and simplicity, making it suitable for a wide range of web applications. |
 | [HTML](https://www.w3schools.com/html/) ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png) | HTML (Hypertext Markup Language) is the standard markup language for creating web pages and web applications. It provides the structure and content of web pages, defining elements such as headings, paragraphs, links, images, and more. |
