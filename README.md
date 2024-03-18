@@ -162,79 +162,41 @@ I hold a Bachelors's degree in Mechanical engineering with a [Google cloud certi
 ## Rajiv Gandhi Proudyogiki Vishwavidhyalaya, Bhopal (M.P)
 
 
-## Projects
-
-Here are some projects I've worked on:
 
 # My Machine Learning & MLOps Projects
 
-This section showcases my projects that demonstrate my skills in Machine Learning (ML) and Machine Learning Operations (MLOps) ⚙️.
+| Project                                | Description                                                                                                             |
+|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| Loan_status_prediction-TFX-pipeline    | Build an ML pipeline for loan status prediction using TFX on Google Cloud.                                              |
+| Disaster-Tweets                        | Explore Natural Language Processing (NLP) techniques to analyze disaster tweets.                                         |
+| California-Housing-Dataset             | Data exploration, analysis, and potentially model building for a California housing dataset.                           |
+| YOLO-Image-detection                   | Implement YOLO (You Only Look Once) for object detection in images.                                                     |
+| Food-vision-milestone-project          | Delve into computer vision for food classification or analysis.                                                         |
+| tensorflow-object-detection            | Repository containing code or resources related to TensorFlow object detection.                                         |
+| Malaria-Cell-Image-Detection           | Tackle malaria cell image detection using computer vision techniques.                                                    |
+| OpenCv-Projects                        | Explore projects using OpenCV, a popular library for computer vision tasks.                                              |
+| Time-series-analysis                   | Analyze time-series data to uncover hidden patterns in Bitcoin prediction.                                               |
+| Miscellaneous_machine_learning_project | Various practice projects showcasing different Machine Learning concepts.                                                |
+| PlantWatch-Pro--Your-Green-Guardian   | (Private) Classify plant diseases using computer vision and become your garden's green guardian!                        |
+| ML-deployment-project                  | (Private) Deploy a Machine Learning model and make it accessible to the world!                                           |
 
-## Public Repositories:
-
-- **Loan_status_prediction-TFX-pipeline** (Jupyter Notebook): Build an ML pipeline for loan status prediction using TFX on Google Cloud
-  
-- **Disaster-Tweets** (Jupyter Notebook): Explore Natural Language Processing (NLP) techniques to analyze disaster tweets. 
-  
-- **California-Housing-Dataset** (Jupyter Notebook): This project might involve data exploration, analysis, and potentially model building for a California housing dataset.
-  
-- **YOLO-Image-detection** (Python): Implement YOLO (You Only Look Once) for object detection in images.
-  
-- **Food-vision-milestone-project** (Jupyter Notebook): Delve into computer vision for food classification or analysis. 
-  
-- **tensorflow-object-detection** (Public): This repository likely contains code or resources related to TensorFlow object detection.
-  
-- **Malaria-Cell-Image-Detection** (Jupyter Notebook): Tackle malaria cell image detection using computer vision techniques.
-  
-- **OpenCv-Projects** (Jupyter Notebook): Explore projects using OpenCV, a popular library for computer vision tasks. 
-  
-- **Time-series-analysis** (Jupyter Notebook): ⏳ Analyze time-series data to uncover hidden patterns on BItcoin prediction.
-- **Miscellaneous_machine_learning_project-** (Jupyter Notebook): This repository likely contains various practice projects showcasing different Machine Learning concepts. 
-  
-
-## Private Repositories:
-
-- **PlantWatch-Pro--Your-Green-Guardian** (Jupyter Notebook): (Private) Classify plant diseases using computer vision and become your garden's green guardian!
-  
-- **ML-deployment-project** (Python): (Private) Deploy a Machine Learning model and make it accessible to the world!
-
-These projects highlight your experience with various Machine Learning tasks, including computer vision, NLP, time series analysis, and building ML pipelines.
-
-
-## Let's Connect
-
-Feel free to connect with me on:
-
-- [LinkedIn](https://www.linkedin.com/in/impathak/)
-- [X(Twitter)](https://twitter.com/impathak1)
-- [Instagram](#)
-- [Google Cloud Profile](https://www.cloudskillsboost.google/public_profiles/3befdf67-850d-4950-b8df-db6c57ee4bda)
-
-Looking forward to connecting with you!
-
-
-
+*Note: All projects include pipelines made in Airflow or Kubeflow for workflow orchestration.*
 
 # Certificates
 ============
 
-<div>
-    <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/comp%20vision.png" alt="Computer Vision" width="150">
-    <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/datascience.jpg" alt="Data Science" width="150">
-    <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/generative%20ai.png" alt="Generative AI" width="150">
-    <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/introduction%20to%20image%20generation.png" alt="Introduction to Image Generation" width="150">
-    <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/kuebflow.jpg" alt="Kuebflow" width="150">
-</div>
+| Certificate Image                                                                                        | Description                          |
+|----------------------------------------------------------------------------------------------------------|--------------------------------------|
+| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/comp%20vision.png" alt="Computer Vision" width="100">                | Computer Vision                     |
+| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/datascience.jpg" alt="Data Science" width="100">                      | Data Science                        |
+| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/generative%20ai.png" alt="Generative AI" width="100">                  | Generative AI                       |
+| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/introduction%20to%20image%20generation.png" alt="Introduction to Image Generation" width="100"> | Introduction to Image Generation   |
+| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/kuebflow.jpg" alt="Kuebflow" width="100">                              | Kuebflow                            |
+| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/ml%20fundamentals.png" alt="ML Fundamentals" width="100">               | ML Fundamentals                     |
+| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/ml%20pipelines.png" alt="ML Pipelines" width="100">                     | ML Pipelines                        |
+| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/mlops.png" alt="MLOps" width="100">                                        | MLOps                               |
+| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/production%20machine%20leaning.png" alt="Production Machine Learning" width="100"> | Production Machine Learning        |
+| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/recommendation%20system.png" alt="Recommendation System" width="100">   | Recommendation System               |
+| <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/tensorflow.png" alt="TensorFlow" width="100">                           | TensorFlow                          |
 
-<div>
-    <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/ml%20fundamentals.png" alt="ML Fundamentals" width="150">
-    <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/ml%20pipelines.png" alt="ML Pipelines" width="150">
-    <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/mlops.png" alt="MLOps" width="150">
-    <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/production%20machine%20leaning.png" alt="Production Machine Learning" width="150">
-    <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/recommendation%20system.png" alt="Recommendation System" width="150">
-</div>
-
-<div>
-    <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/certificates/tensorflow.png" alt="TensorFlow" width="150">
-</div>
 
