@@ -1,27 +1,30 @@
-<table>
-  <tr>
-    <td align="right">
-      <a href="https://twitter.com/impathak1" target="blank">
-        <img src="https://img.shields.io/twitter/follow/impathak1?logo=twitter&style=for-the-badge" alt="impathak1" />
-      </a>
-    </td>
-    <td align="right">
-      <a href="https://linkedin.com/in/impathak" target="blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="impathak" />
-      </a>
-    </td>
-    <td align="right">
-      <a href="https://kaggle.com/impathak" target="blank">
-        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="impathak" />
-      </a>
-    </td>
-    <td align="right">
-      <a href="https://instagram.com/impathak" target="blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="impathak" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table style="width: 100%;">
+    <tr>
+      <td style="padding: 5px;" align="center">
+        <a href="https://twitter.com/impathak1" target="blank">
+          <img src="https://img.shields.io/twitter/follow/impathak1?logo=twitter&style=flat-square" alt="Twitter" height="20" />
+        </a>
+      </td>
+      <td style="padding: 5px;" align="center">
+        <a href="https://linkedin.com/in/impathak" target="blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="20" />
+        </a>
+      </td>
+      <td style="padding: 5px;" align="center">
+        <a href="https://kaggle.com/impathak" target="blank">
+          <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" height="20" />
+        </a>
+      </td>
+      <td style="padding: 5px;" align="center">
+        <a href="https://instagram.com/impathak" target="blank">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="20" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <h1 align="center">Hi there, I'm Ved Prakash Pathak! 👋</h1>
 
@@ -126,7 +129,7 @@ I hold a Bachelors's degree in Mechanical engineering with a [Google cloud certi
 | Framework / Language | Description |
 |----------------------|-------------|
 | [Streamlit](https://docs.streamlit.io/) <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" width="100" height="100"> | Streamlit is a Python library that allows you to create interactive web apps for machine learning and data science projects with ease. It provides simple APIs for creating UI elements and integrates seamlessly with data science libraries like Pandas and Plotly. |
-| [FastAPI](https://fastapi.tiangolo.com/) <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="FastAPI" width="100" height="100"> | FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints. It's easy to use, easy to learn, and highly efficient, making it a popular choice for building APIs. |
+| [FastAPI](https://fastapi.tiangolo.com/) <img src="https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/logos/logo-teal.png" alt="FastAPI" width="100" height="100"> | FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints. It's easy to use, easy to learn, and highly efficient, making it a popular choice for building APIs. |
 | [Flask](https://flask.palletsprojects.com/) <img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask" width="100" height="100"> | Flask is a lightweight WSGI web application framework in Python. It's designed to make getting started quick and easy, with the ability to scale up to complex applications. Flask provides flexibility and simplicity, making it suitable for a wide range of web applications. |
 | [HTML](https://www.w3schools.com/html/) <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="100" height="100"> | HTML (Hypertext Markup Language) is the standard markup language for creating web pages and web applications. It provides the structure and content of web pages, defining elements such as headings, paragraphs, links, images, and more. |
 | [CSS](https://www.w3schools.com/css/) <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="100" height="100"> | CSS (Cascading Style Sheets) is a stylesheet language used for describing the presentation of a document written in HTML. It controls the layout, formatting, and appearance of elements on a web page, allowing for creative and responsive designs. |
@@ -191,7 +194,7 @@ I hold a Bachelors's degree in Mechanical engineering with a [Google cloud certi
 *Note: All projects include pipelines made in Airflow or Kubeflow for workflow orchestration.*
 
 # Certificates
-============
+*checkout my Google cloud profile:- [Google cloud profile](https://www.cloudskillsboost.google/public_profiles/3befdf67-850d-4950-b8df-db6c57ee4bda)
 
 | Certificate Image                                                                                        | Description                          |
 |----------------------------------------------------------------------------------------------------------|--------------------------------------|
