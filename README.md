@@ -30,7 +30,7 @@
 
 
 
-<h2 align="center">A passionate Machine Learning engineer | MLOps engineer | Data scientist with a keen interest in leveraging cutting-edge technologies to solve complex problems and drive innovation in the field of machine learning and artificial intelligence. </h2>
+<h2 align="center">An Aspiring Machine Learning engineer | MLOps engineer | Data scientist with a keen interest in leveraging cutting-edge technologies to solve complex problems and drive innovation in the field of machine learning and artificial intelligence. </h2>
 
 
 <h4>
