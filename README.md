@@ -60,6 +60,22 @@
     </ul>
 </h4>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embedded Video</title>
+</head>
+<body>
+    <h2>My Video</h2>
+    <video width="640" height="360" controls>
+        <source src="https://github.com/IAMPathak2702/IAMPathak2702/raw/main/pictures/myvideo%20-%20Made%20with%20Clipchamp.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</body>
+</html>
+
 
 ## About Me
 
