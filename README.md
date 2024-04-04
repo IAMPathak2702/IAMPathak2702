@@ -60,7 +60,7 @@
     </ul>
 </h4>
 
-<img src=https://raw.githubusercontent.com/IAMPathak2702/IAMPathak2702/main/pictures/myvideo%20-%20Made%20with%20Clipchamp%20(1).gif>
+
 
 
 ## About Me
