@@ -31,7 +31,7 @@
 
 
 
-<h2 align="center">An Aspiring Machine Learning engineer | MLOps engineer | Data Engineer with a keen interest in leveraging cutting-edge technologies to solve complex problems and drive innovation in the field of machine learning and artificial intelligence. </h2>
+<h2 align="center">An Passionate Machine Learning Engineer, MLOps Specialist, and Data Scientist with a passion for leveraging cutting-edge technologies to solve complex problems and drive innovation in the fields of machine learning and artificial intelligence. As an MLOps specialist, I am the architect of scalable, efficient deployment, orchestrating models for impactful deployment. </h2>
 
 
 <h4>
