@@ -8,6 +8,11 @@
         </a>
       </td>
       <td style="padding: 5px;" align="center">
+        <a href="https://iampathak2702.github.io/Resume/" target="blank">
+          <img src="https://raw.githubusercontent.com/IAMPathak2702/Resume/main/img/Designer.png&style=flat-square" alt="Portfolio" height="20" />
+        </a>
+      </td>
+      <td style="padding: 5px;" align="center">
         <a href="https://linkedin.com/in/impathak" target="blank">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="20" />
         </a>
