@@ -4,7 +4,7 @@
     <tr>
       <td style="padding: 5px;" align="center">
         <a href="https://twitter.com/impathak1" target="blank">
-          <img alt="Static Badge" src="https://img.shields.io/twitter/follow/impathak1&logo=twitter&logoColor=white" alt="LinkedIn" height="20">
+          <img alt="Static Badge" src="https://img.shields.io/twitter/follow/impathak1&link=https://twitter.com/impathak1 alt="Twitter">
         </a>
       </td>
       <td style="padding: 5px;" align="center">
