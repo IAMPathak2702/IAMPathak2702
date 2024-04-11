@@ -5,7 +5,6 @@
       <td style="padding: 5px;" align="center">
         <a href="https://twitter.com/impathak1" target="blank">
           <img alt="Static Badge" src="https://img.shields.io/badge/follow-impathak1-blue?logo=x&link=https%3A%2F%2Ftwitter.com%2Fimpathak1">
-
         </a>
       </td>
       <td style="padding: 5px;" align="center">
