@@ -28,8 +28,9 @@
         </a>
       </td>
       <td style="padding: 5px;" align="center">
-        <a href="https://komarev.com/ghpvc/?username=IAMPathak2702">
-        </a>
+        <a href="https://komarev.com/ghpvc/?username=IAMPathak2702", target="blank">
+          <img src="![](https://komarev.com/ghpvc/?username=IAMPathak2702/>
+            </a>
       </td>
     </tr>
   </table>
