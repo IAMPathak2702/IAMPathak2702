@@ -28,7 +28,7 @@
         </a>
       </td>
       <td style="padding: 5px;" align="center">
-        ![](https://komarev.com/ghpvc/?username=IAMPathak2702)
+        <a href=:https://komarev.com/ghpvc/?username=IAMPathak2702">
         </a>
       </td>
     </tr>
