@@ -27,6 +27,10 @@
           <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="20" />
         </a>
       </td>
+      <td style="padding: 5px;" align="center">
+        ![](https://komarev.com/ghpvc/?username=IAMPathak2702)
+        </a>
+      </td>
     </tr>
   </table>
 </div>
